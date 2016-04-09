@@ -1,0 +1,7 @@
+[LOCLTest-Regular]
+	f=3,1,0x411,LOCL \30C6\30B9\30C8
+	s=3,1,0x411,Regular
+	l=3,1,0x411,LOCL \30C6\30B9\30C8
+	f=LOCL Test
+	s=Regular
+	l=LOCL Test

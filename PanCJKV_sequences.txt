@@ -1,0 +1,15 @@
+# PanCJKV IVD Collection (unregistered)
+# Version 04/08/2016
+# Prepared by Dr. Ken Lunde (lunde@adobe.com), Adobe Systems Incorporated
+904D E01E5; PanCJKV; CID+10
+904D E01E6; PanCJKV; CID+8
+904D E01E7; PanCJKV; CID+8
+904D E01E8; PanCJKV; CID+7
+904D E01E9; PanCJKV; CID+9
+904D E01EA; PanCJKV; CID+11
+904D E01EB; PanCJKV; CID+11
+904D E01EC; PanCJKV; CID+10
+904D E01ED; PanCJKV; CID+9
+904D E01EE; PanCJKV; CID+9
+904D E01EF; PanCJKV; CID+8
+# EOF
