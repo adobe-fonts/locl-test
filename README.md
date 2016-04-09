@@ -10,11 +10,11 @@ LOCL Test (LOCL &#x30C6;&#x30B9;&#x30C8; is its Japanese name) is a special-purp
 
 The image below shows how the provided *locl-test.html* file should display when opened in a browser (the glyphs for Hong Kong SAR are colored red because that is a current pain point for some apps):
 
-![alt text](https://raw.githubusercontent.com/adobe-fonts/locl-test/master/resources/locl-example.png "img-View")
+![alt text](https://raw.githubusercontent.com/adobe-fonts/locl-test/master/resources/locl-example.jpg "img-View")
 
 The Format 14 '[cmap](https://www.microsoft.com/typography/otspec/cmap.htm)' subtable specifies (unregistered) [PanCJKV](https://github.com/adobe-type-tools/pancjkv-ivd-collection/) IVSes for a total of 11 regions. The image below shows how the second line of text in the provided *uvs-test.html* file should display when opened in a browser (the glyph for Hong Kong SAR is colored red because that is a current pain point for some apps):
 
-![alt text](https://raw.githubusercontent.com/adobe-fonts/locl-test/master/resources/uvs-example.png "img-View")
+![alt text](https://raw.githubusercontent.com/adobe-fonts/locl-test/master/resources/uvs-example.jpg "img-View")
 
 The glyphs that are used in this font are derived from the Regular weight of [Source Han Sans](https://github.com/adobe-fonts/source-han-sans/). Only the glyphs for the five digraphs and the HK glyph for U+904D are not present in the source font.
 
