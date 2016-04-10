@@ -1,8 +1,8 @@
 # Command lines for building OTF
 #
-# Version 2016-04-08
+# Version 2016-04-09
 
-makeotf -f cidfont.ps -ff features -fi cidfontinfo -mf FontMenuNameDB -r -cs 1 -ch UniLOCLTest-UTF32-H -ci PanCJKV_sequences.txt
+makeotf -f cidfont.ps -omitMacNames -ff features -fi cidfontinfo -mf FontMenuNameDB -r -cs 1 -ch UniLOCLTest-UTF32-H -ci PanCJKV_sequences.txt
 sfntedit -a DSIG=DSIG.bin LOCLTest-Regular.otf
 sfntedit -f LOCLTest-Regular.otf
 

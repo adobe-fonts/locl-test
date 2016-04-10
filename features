@@ -15,7 +15,7 @@ languagesystem latn ZHS;
 languagesystem latn ZHT;
 
 table head {
-  FontRevision 1.001;
+  FontRevision 1.002;
 } head;
 
 table hhea {
