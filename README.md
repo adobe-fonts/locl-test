@@ -16,7 +16,7 @@ The Format 14 '[cmap](https://www.microsoft.com/typography/otspec/cmap.htm)' sub
 
 ![alt text](https://raw.githubusercontent.com/adobe-fonts/locl-test/master/resources/uvs-example.jpg "img-View")
 
-The glyphs that are used in this font are derived from the Regular weight of [Source Han Sans](https://github.com/adobe-fonts/source-han-sans/). Only the glyphs for the five digraphs and the HK glyph for U+904D are not present in the source font.
+The glyphs that are used in this font are derived from the Regular weight of [Source Han Sans](https://github.com/adobe-fonts/source-han-sans/).
 
 ## Font installation instructions
 
@@ -28,7 +28,7 @@ The glyphs that are used in this font are derived from the Regular weight of [So
 
 ### Requirements
 
-To build the binary font file from source, you need to have installed the [Adobe Font Development Kit for OpenType](http://www.adobe.com/devnet/opentype/afdko.html) (AFDKO). The AFDKO tools are widely used for font development today, and are part of most font editor applications.
+To build the binary font file from source, you need to have installed the [Adobe Font Development Kit for OpenType](https://github.com/adobe-type-tools/afdko/) (AFDKO). The AFDKO tools are widely used for font development today, and are part of most font editor applications.
 
 ### Building the font
 

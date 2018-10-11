@@ -2,14 +2,14 @@ FontName                   (LOCLTest-Regular)
 FullName                   (LOCL Test Regular)
 FamilyName                 (LOCL Test)
 Weight                     (Regular)
-version                    (1.000)
+version                    (2.000)
 Registry                   (Adobe)
 Ordering                   (Identity)
 Supplement                 0
 FSType                     0
 isFixedPitch               false
 UnderlinePosition          -150
-AdobeCopyright             (Copyright 2014-2016 Adobe Systems Incorporated (http://www.adobe.com/).)
+AdobeCopyright             (Copyright 2014-2018 Adobe Systems Incorporated (http://www.adobe.com/).)
 Trademark                  ()
 Serif                      false
 IsBoldStyle                false
